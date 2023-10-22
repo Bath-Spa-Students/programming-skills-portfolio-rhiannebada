@@ -7,7 +7,7 @@ for i in guests:
 name = guests[3]
 print ("\nSorry,", name, "won't be available that day.\n")
 
-#RJ is not available on  Tuesday night
+#JR is not available on  Tuesday night
 del (guests[3])
 guests.insert (3, "Eriel")
 
