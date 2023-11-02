@@ -19,6 +19,7 @@ Odi = {"specie" : "hedgehog",
 Leon = {"specie" : "cat",
         "breed" : "Abyssinian",
         "owner" : "Ten"}
+
 pets = [Yeontan, Layla, Gaeul, Odi, Leon]
 
 for pet in pets:
