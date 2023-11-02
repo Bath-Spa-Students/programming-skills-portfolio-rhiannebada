@@ -1,7 +1,8 @@
-## Exercise 1: Assign a message to a variable, and print that message.
-##Then change the value of the variable to a new message, and print the new message.
+## Exercise 1: Variables
 
-message = "Code Lab 1 is a challenging and interesting class for me."
+#assigning message to a variable and print
+message = "Code Lab 1 is a challenging and interesting class."
 print (message)
-message = "I like the module."
+#reassigning a new message
+message = "I like the module." #same variable but will print a new message
 print (message)
