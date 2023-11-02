@@ -1,12 +1,15 @@
-## Exercise 3: Stripping Names : Tidy up the code to make it easier to understand
-##Use a variable to represent a person’s name, and include some whitespace characters at the beginning and end of the name. Make sure you use each character combination, “\t” and “\n”, at least once. Print the name once, so the whitespace around the name is displayed. Then print the name using each of the three stripping functions, lstrip(), rstrip(), and strip().
+## Exercise 3: Stripping Names 
 
-name = "\tRhianne Bada\n"
+name = "\tRhianne Bada\n" #\t for tabs; \n for new line
+
 print ("Name:")
 print (name)
+
 print ("lstrip:")
-print (name.lstrip())
+print (name.lstrip()) #lstrip () removes leading/left side whitespaces in the string
+
 print ("rstrip:")
-print (name.rstrip())
+print (name.rstrip()) #lstrip () removes trailing/right side side whitespaces in the string
+
 print ("strip:")
-print (name.strip())
+print (name.strip())  #strip () removes both leading and trailing whitespaces in the string
