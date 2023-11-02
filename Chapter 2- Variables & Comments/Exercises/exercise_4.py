@@ -1,6 +1,6 @@
-## Exercise 4: Favorite Number : Use a variable to represent your favorite number. 
-## Then,using that variable, create a message that reveals your favorite number. Print that message.
+## Exercise 4: Favorite Number 
 
-fav_number = "7"
-print ("My favorite number is ", fav_number + ".")
+#use a variable to represent favorite number then print a message with the information
+fav_number = "7" #use of "" to store as string
+print ("My favorite number is", fav_number + ".") 
 
