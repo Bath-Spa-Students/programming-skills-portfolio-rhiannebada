@@ -25,3 +25,8 @@ print ("")
 
 for finished_sandwich in finished_sandwiches: 
     print (finished_sandwich.title(), "is done and ready!") #title() for uppercasing initials
+
+print ("")
+
+print ("Sandwich Orders:")
+print (finished_sandwiches) #to check if all pastrami orders were removed
