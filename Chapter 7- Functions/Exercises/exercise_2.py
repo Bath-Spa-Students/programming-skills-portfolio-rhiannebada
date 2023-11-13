@@ -1,6 +1,6 @@
 ## Exercise 2: Favorite Book 
 
-#function that'll print favorith book
+#function that'll print favorite book
 def favorite_book (title):
 
     print ("One of my favorite books is", title + ".")
