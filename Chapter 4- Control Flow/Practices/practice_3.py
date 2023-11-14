@@ -1,6 +1,6 @@
 ## Nested decision
 
-##assign values to variables from user input
+#assign values to variables from user input
 amount1 = float(input("Enter a number greater than 10: "))
 amount2 = float(input("Enter a number less than 100: "))
 
