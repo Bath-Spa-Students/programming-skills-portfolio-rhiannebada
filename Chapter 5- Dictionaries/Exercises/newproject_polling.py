@@ -12,7 +12,7 @@ fav_languages = {
 for name, language in fav_languages.items():
     print (name.title()+ "'s favorite language is", language.title()+".")
 
-print ("")
+print (" ")
 
 #list of programmers
 programmers = ['rhianne', 'jennifer', 'sam', 'elle', 'jake', 'samuel']
